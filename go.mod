@@ -1,9 +1,9 @@
-module github.com/99designs/gqlgen
+module github.com/jorgyp/gqlgen
 
 go 1.16
 
 require (
-	github.com/agnivade/levenshtein v1.1.1 // indirect
+	github.com/99designs/gqlgen v0.17.24
 	github.com/gorilla/websocket v1.5.0
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/kevinmbeaulieu/eq-go v1.0.0
